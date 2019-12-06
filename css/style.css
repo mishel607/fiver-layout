@@ -1,0 +1,278 @@
+*{
+
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+
+
+}
+
+body {
+
+
+
+
+  
+}
+
+
+header{
+	width: 100%;
+
+	
+}
+.offer{
+	
+	text-align: center;
+	background: black;
+	color: white;
+	padding: 10px;
+
+}
+.offer b{
+    font-size: 22px;
+    padding-left: 92px;
+}
+.offer a{
+	font-size: 12px;
+color: green;
+    text-decoration: none;
+    padding: 12px;
+}
+.top-nav {
+padding: 5px;
+display: flex;
+        background: #eceaea;
+    margin: 0px;
+    justify-content: space-around;
+    
+    box-sizing: border-box;
+   
+    padding-bottom: 5px;
+}
+.top-nav nav{
+
+	
+}
+.top-nav nav ul{
+    text-align: center;
+
+}
+.top-nav nav ul li{
+display: inline-block;
+}
+.top-nav nav ul li a{
+	    color: #827a7a;
+    padding: 15px;
+        text-decoration: none;
+
+
+
+}
+.main{
+	width: 100%;
+
+}
+
+.main nav{
+
+float: left;
+    width: 25%;
+    padding: 70px;
+}
+
+
+
+
+}
+.main nav ul{
+	padding: 10px;
+width: 100%;
+    text-align: left;
+    list-style: none;
+
+}
+.main nav ul li{
+
+list-style: none;
+  display: flex;
+
+}
+.main nav ul li a{
+color: #7f7777;
+text-decoration: none;
+    padding: 10px;
+}
+
+.container{
+
+	overflow: hidden;
+
+}
+.footer{
+	background: #e6e6e694;
+width: 100%;
+    display: flex;
+        padding: 40px;
+}
+
+ .timeline b{font-size: 25px;
+ }
+ .terms b{   font-size: 25px;  
+        }
+ .safety b{  font-size: 25px;   
+     }
+
+
+
+ .timeline p{ font-size: 25px;}
+  .terms p{ font-size: 25px;}
+  .safety p{ font-size: 25px;} 
+
+.timeline article  p{ font-size: 12px;}
+ .terms  article p{ font-size: 12px;}
+  .safety  article p{ font-size: 12px;} 
+
+
+
+.terms{
+width: 33.3%;
+padding: 10px;
+
+}
+.timeline{
+width: 33.3%;
+padding: 10px;
+}
+.safety{
+width: 33.3%;
+padding: 10px;
+}
+
+.motto{
+	width: 100%;
+text-align: center;
+    display: block;
+    
+        margin-top: 30px;
+}
+.motto p{
+font-size: 16px;
+margin-top: 27px;
+margin-left: 10%;
+}
+.motto b{
+	font-size: 50px;
+	margin-left: 10%;
+}
+.post-image{
+	
+	width: 75%;
+    display: inline-block;
+	 
+	    padding: 40px;
+
+
+}
+
+
+img{
+
+    padding:10px;
+    width: 100%;
+        display: block;
+}
+.abc{
+	    width: 28%;
+    display: flex;
+    float: left;
+    padding: 30px;
+
+}
+.bcd{	
+	width: 28%;
+    display: flex;
+    float: left;
+    padding: 30px;
+
+}
+.cde{
+
+width: 28%;
+    display: flex;
+    float: left;
+    padding: 30px;
+}
+.def{	
+width: 28%;
+    display: flex;
+    float: left;
+    padding: 30px;
+
+}
+
+
+
+article{}
+.abc article a{
+	
+	    color: #757172;
+    
+    text-decoration: none;
+}
+.bcd article a{
+	    color: #757172;
+   
+    text-decoration: none;
+}
+.cde article a{
+	    color: #757172;
+    text-decoration: none;
+}
+.def article a{
+	    color: #757172;
+  
+    text-decoration: none;
+}
+
+
+
+
+ .top-nav nav ul li a:hover{
+	
+ opacity: 0.4;
+    transition: 0.6s;
+ 
+}
+
+
+img:hover{
+    opacity: 0.4;
+    transition: 0.6s;
+    background: whitesmoke;
+}
+
+.terms:hover{
+	 opacity: 0.4;
+    transition: 0.6s;
+}
+.timeline:hover{
+	 opacity: 0.4;
+    transition: 0.6s;
+}
+.safety:hover{
+	 opacity: 0.4;
+    transition: 0.6s;
+}
+.main nav ul li  a:hover{
+	 opacity: 0.4;
+    transition: 0.6s;
+}
+
+
